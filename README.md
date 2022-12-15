@@ -7,6 +7,6 @@ I also post writing and videos on:
 - [The Esolangery](https://esolangery.quora.com/)
 - [Cohost](https://cohost.org/razetime/)
 - [Letterboxd](https://letterboxd.com/razetime/)
-- [My Blog](https://razetime/github.io/blog)
+- [My Blog](https://razetime.github.io/blog)
 
 Contact me at any of the links [here](http://razetime.github.io/contact).
